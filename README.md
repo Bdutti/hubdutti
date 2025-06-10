@@ -1,0 +1,2 @@
+# hubdutti
+gerador-qwen-app
