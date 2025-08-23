@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "Chrome: Attach",
+            "request": "attach",
+            "port": 9222
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Chrome: Launch",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
+            "request": "launch",
+            "name": "Chrome: Launch",
+            "url": "http://localhost:3000",
+            "webRoot":
+```
+
+
+## License: GPL_3_0
+https://github.com/LearningOS/lab1-os3-AHzZ123/tree/a3c734d362b406c40da2a461e38caf026fef50e3/guide/source/0setup-devel-env.rst
+
+```
+Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "
+```
+
+
+## License: GPL_2_0
+https://github.com/RomRaider/RomRaider/tree/090cac6cdb80f75279159b9d05fff0262cf694cc/docs/Building_RomRaider_VSCode.md
+
+```
+// Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type"
+```
+
+
+## License: GPL_3_0
+https://github.com/grantcurell/dell/tree/81fdcff12d2756ec3143126c910d203bd17d5a29/OpenFlow%20on%204112F-ON/README.md
+
+```
+to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome
+```
+
